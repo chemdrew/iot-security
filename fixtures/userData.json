@@ -1,0 +1,47 @@
+{
+  "1": {
+    "paymentToken": {
+      "value": "",
+      "expires": ""
+    },
+    "creditCard": {
+      "issuingNetwork": "American Express",
+      "cardNumber": 374096546421997,
+      "zipCode": "85251",
+      "expires": {
+        "month": "03",
+        "year": "24"
+      }
+    }
+  },
+  "2": {
+    "paymentToken": {
+      "value": "",
+      "expires": ""
+    },
+    "creditCard": {
+      "issuingNetwork": "American Express",
+      "cardNumber": 370961245687640,
+      "zipCode": "85251",
+      "expires": {
+        "month": "07",
+        "year": "22"
+      }
+    }
+  },
+  "3": {
+    "paymentToken": {
+      "value": "",
+      "expires": ""
+    },
+    "creditCard": {
+      "issuingNetwork": "American Express",
+      "cardNumber": 348856363967809,
+      "zipCode": "85251",
+      "expires": {
+        "month": "02",
+        "year": "28"
+      }
+    }
+  }
+}

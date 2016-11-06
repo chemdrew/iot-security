@@ -1,0 +1,36 @@
+{
+  "name": "iot-security",
+  "description": "Devils INVENT.IoT IoT security talk demo appst",
+  "version": "0.1.0",
+  "author": {
+    "name": "Andrew Pratt",
+    "email": "chemdrew1@gmail.com",
+    "url": "http://chemdrew.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chemdrew/iot-security"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start:plain": "node plainServer.js",
+    "start:token": "node tokenServer.js",
+    "start:encrypt": "node encryptServer.js",
+    "start:sign": "node signServer.js"
+  },
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "express": "4.14.0"
+  },
+  "main": "./auth.js",
+  "_npmUser": {
+    "name": "chemdrew",
+    "email": "chemdrew1@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "Andrew Pratt",
+      "email": "chemdrew1@gmail.com"
+    }
+  ]
+}

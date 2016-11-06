@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExampleApp</string>
+    <string name="servicedesc">nfc data transfer</string>
+    <string name="aiddescription">nfc data transfer</string>
+</resources>
